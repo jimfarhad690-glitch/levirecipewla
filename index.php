@@ -13,7 +13,7 @@
 
   <meta name="robots" content="index, follow">
 
-  <link rel="canonical" href="https://llevirecipewla-11ba7d3769bb.herokuapp.com/">
+  <link rel="canonical" href="https://levirecipewla-11ba7d3769bb.herokuapp.com/">
 
   <style>
     :root {
@@ -2198,8 +2198,8 @@
 
             <strong>Email</strong>
 
-            <a href="mailto:contact@llevirecipewla-11ba7d3769bb.herokuapp.com">
-              contact@llevirecipewla-11ba7d3769bb.herokuapp.com
+            <a href="mailto:contact@levirecipewla-11ba7d3769bb.herokuapp.com">
+              contact@levirecipewla-11ba7d3769bb.herokuapp.com
             </a>
 
           </div>
@@ -2618,8 +2618,8 @@
 
           <p>
             Email:
-            <a href="mailto:contact@llevirecipewla-11ba7d3769bb.herokuapp.com">
-              contact@llevirecipewla-11ba7d3769bb.herokuapp.com
+            <a href="mailto:contact@levirecipewla-11ba7d3769bb.herokuapp.com">
+              contact@levirecipewla-11ba7d3769bb.herokuapp.com
             </a>
           </p>
 
@@ -2635,7 +2635,7 @@
       <div class="copyright">
 
         <p>
-          © 2026 Levirecipewla — llevirecipewla-11ba7d3769bb.herokuapp.com. All rights reserved.
+          © 2026 Levirecipewla — levirecipewla-11ba7d3769bb.herokuapp.com. All rights reserved.
         </p>
 
       </div>
